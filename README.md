@@ -1,6 +1,3 @@
-myblogs
-=======
+Something about programming, learning and so on.
 
-My blogs about programming and so on.
-
-Please go to check myblogs wiki.
+Stay foolish and keep moving ...
