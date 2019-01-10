@@ -1,4 +1,4 @@
-# Nice Projects not on Github
+# Nice Projects on Internet
 
 [Plotly Python Open Source Graphing Library](https://plot.ly/python/)
 
