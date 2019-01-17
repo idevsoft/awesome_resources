@@ -14,6 +14,8 @@
 
 [Zeu.js](https://github.com/shzlw/zeu), A JavaScript library for real-time visualization 
 
+[CKEditor 4](https://github.com/ckeditor/ckeditor-dev), The best browser-based WYSIWYG editor
+
 ## Internet & Network - 网络应用
 
 [Netty](https://github.com/netty/netty), Netty is an asynchronous event-driven network application framework for rapid development of maintainable high performance protocol servers & clients.
