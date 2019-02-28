@@ -38,8 +38,8 @@
 
 [MyPerf4J](https://github.com/LinShunKang/MyPerf4J), 一个针对高并发、低延迟应用设计的高性能 Java 性能监控和统计工具(APM)。
 
-## Awesome Lists
-[Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking), A collection of various awesome lists for hackers, pentesters and security researchers 
+## Design & Tools - 设计工具
+[OpenSCAD](https://github.com/openscad/openscad), The Programmers Solid 3D CAD Modeller.
 
 ## Learning Resources
 [Computer Science Learning Notes](https://github.com/CyC2018/CS-Notes), CS学习笔记整理，中文版。
