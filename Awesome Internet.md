@@ -1,4 +1,4 @@
-# Nice Projects on Internet
+# Awesome Projects on Internet
 
 [Plotly Python Open Source Graphing Library](https://plot.ly/python/)
 
