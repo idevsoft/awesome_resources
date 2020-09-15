@@ -10,3 +10,5 @@
 [ImageJ](https://imagej.nih.gov/ij/)：**★★★★**，Java版开源图片处理软件
 
 [ImageMagick](https://imagemagick.org/index.php)：**★★★★★**，强大的图片处理命令行工具
+
+[Stacer](https://oguzhaninan.github.io/Stacer-Web): **★★★★**，Stacer is an open source system optimizer and application monitor that helps users to manage entire system with different aspects, its an all in one system utility.
